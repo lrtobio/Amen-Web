@@ -1,0 +1,1465 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ChurchesController.php:56;100;143
+msgid "Invalid church"
+msgstr ""
+
+#: Controller/ChurchesController.php:88;126
+msgid "The church has been saved."
+msgstr ""
+
+#: Controller/ChurchesController.php:91;129
+msgid "The church could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ChurchesController.php:147
+msgid "The church has been deleted."
+msgstr ""
+
+#: Controller/ChurchesController.php:149
+msgid "The church could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CitiesController.php:37;71;98
+msgid "Invalid city"
+msgstr ""
+
+#: Controller/CitiesController.php:52;75
+msgid "The city has been saved."
+msgstr ""
+
+#: Controller/CitiesController.php:55;78
+msgid "The city could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CitiesController.php:102
+msgid "The city has been deleted."
+msgstr ""
+
+#: Controller/CitiesController.php:104
+msgid "The city could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ConversationsController.php:67;91;113
+msgid "Invalid conversation"
+msgstr ""
+
+#: Controller/ConversationsController.php:78;95
+msgid "The conversation has been saved."
+msgstr ""
+
+#: Controller/ConversationsController.php:81;98
+msgid "The conversation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ConversationsController.php:117
+msgid "The conversation has been deleted."
+msgstr ""
+
+#: Controller/ConversationsController.php:119
+msgid "The conversation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CountriesController.php:37;69;94
+msgid "Invalid country"
+msgstr ""
+
+#: Controller/CountriesController.php:52;73
+msgid "The country has been saved."
+msgstr ""
+
+#: Controller/CountriesController.php:55;76
+msgid "The country could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CountriesController.php:98
+msgid "The country has been deleted."
+msgstr ""
+
+#: Controller/CountriesController.php:100
+msgid "The country could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MessagesController.php:37;72;100
+msgid "Invalid message"
+msgstr ""
+
+#: Controller/MessagesController.php:52;76
+msgid "The message has been saved."
+msgstr ""
+
+#: Controller/MessagesController.php:55;79
+msgid "The message could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MessagesController.php:104
+msgid "The message has been deleted."
+msgstr ""
+
+#: Controller/MessagesController.php:106
+msgid "The message could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MobileUsersController.php:46;82;110
+msgid "Invalid mobile user"
+msgstr ""
+
+#: Controller/MobileUsersController.php:62;86
+msgid "The mobile user has been saved."
+msgstr ""
+
+#: Controller/MobileUsersController.php:65;89
+msgid "The mobile user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MobileUsersController.php:114
+msgid "The mobile user has been deleted."
+msgstr ""
+
+#: Controller/MobileUsersController.php:116
+msgid "The mobile user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MobileuserProfilesController.php:37;69;94
+msgid "Invalid mobileuser profile"
+msgstr ""
+
+#: Controller/MobileuserProfilesController.php:52;73
+msgid "The mobileuser profile has been saved."
+msgstr ""
+
+#: Controller/MobileuserProfilesController.php:55;76
+msgid "The mobileuser profile could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MobileuserProfilesController.php:98
+msgid "The mobileuser profile has been deleted."
+msgstr ""
+
+#: Controller/MobileuserProfilesController.php:100
+msgid "The mobileuser profile could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ReadingTypesController.php:37;69;94
+msgid "Invalid reading type"
+msgstr ""
+
+#: Controller/ReadingTypesController.php:52;73
+msgid "The reading type has been saved."
+msgstr ""
+
+#: Controller/ReadingTypesController.php:55;76
+msgid "The reading type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReadingTypesController.php:98
+msgid "The reading type has been deleted."
+msgstr ""
+
+#: Controller/ReadingTypesController.php:100
+msgid "The reading type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ReadingsController.php:47;89;116
+msgid "Invalid reading"
+msgstr ""
+
+#: Controller/ReadingsController.php:66
+msgid "The reading is already exist!. Sorry."
+msgstr ""
+
+#: Controller/ReadingsController.php:69;93
+msgid "The reading has been saved."
+msgstr ""
+
+#: Controller/ReadingsController.php:72;96
+msgid "The reading could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReadingsController.php:120
+msgid "The reading has been deleted."
+msgstr ""
+
+#: Controller/ReadingsController.php:122
+msgid "The reading could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ScheduleTypesController.php:37;69;94
+msgid "Invalid schedule type"
+msgstr ""
+
+#: Controller/ScheduleTypesController.php:52;73
+msgid "The schedule type has been saved."
+msgstr ""
+
+#: Controller/ScheduleTypesController.php:55;76
+msgid "The schedule type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ScheduleTypesController.php:98
+msgid "The schedule type has been deleted."
+msgstr ""
+
+#: Controller/ScheduleTypesController.php:100
+msgid "The schedule type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SchedulesController.php:37;78;106
+msgid "Invalid schedule"
+msgstr ""
+
+#: Controller/SchedulesController.php:53
+msgid "This schedule is already exist!."
+msgstr ""
+
+#: Controller/SchedulesController.php:56;82
+msgid "The schedule has been saved."
+msgstr ""
+
+#: Controller/SchedulesController.php:59;85
+msgid "The schedule could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SchedulesController.php:110
+msgid "The schedule has been deleted."
+msgstr ""
+
+#: Controller/SchedulesController.php:112
+msgid "The schedule could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/WebUsersController.php:67;101;128
+msgid "Invalid web user"
+msgstr ""
+
+#: Controller/WebUsersController.php:82;105
+msgid "The web user has been saved."
+msgstr ""
+
+#: Controller/WebUsersController.php:85;108
+msgid "The web user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/WebUsersController.php:132
+msgid "The web user has been deleted."
+msgstr ""
+
+#: Controller/WebUsersController.php:134
+msgid "The web user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/WebuserProfilesController.php:37;69;94
+msgid "Invalid webuser profile"
+msgstr ""
+
+#: Controller/WebuserProfilesController.php:52;73
+msgid "The webuser profile has been saved."
+msgstr ""
+
+#: Controller/WebuserProfilesController.php:55;76
+msgid "The webuser profile could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/WebuserProfilesController.php:98
+msgid "The webuser profile has been deleted."
+msgstr ""
+
+#: Controller/WebuserProfilesController.php:100
+msgid "The webuser profile could not be deleted. Please, try again."
+msgstr ""
+
+#: View/Churches/add.ctp:5
+msgid "Add Church"
+msgstr ""
+
+#: View/Churches/add.ctp:17
+#: View/Churches/edit.ctp:19
+#: View/Countries/add.ctp:22
+#: View/Countries/edit.ctp:23
+#: View/Countries/index.ctp:22
+#: View/MobileUsers/add.ctp:26
+#: View/MobileUsers/index.ctp:19
+#: View/Schedules/add.ctp:25
+#: View/Schedules/index.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Churches"
+msgstr ""
+
+#: View/Churches/add.ctp:80
+#: View/Churches/edit.ctp:72
+#: View/Cities/add.ctp:41
+#: View/Cities/edit.ctp:45
+#: View/Conversations/add.ctp:44
+#: View/Conversations/edit.ctp:57
+#: View/Countries/add.ctp:38
+#: View/Countries/edit.ctp:42
+#: View/Messages/add.ctp:47
+#: View/Messages/edit.ctp:51
+#: View/MobileUsers/add.ctp:58
+#: View/MobileUsers/edit.ctp:70
+#: View/MobileuserProfiles/add.ctp:39
+#: View/MobileuserProfiles/edit.ctp:43
+#: View/ReadingTypes/add.ctp:39
+#: View/ReadingTypes/edit.ctp:43
+#: View/Readings/add.ctp:47
+#: View/Readings/edit.ctp:54
+#: View/ScheduleTypes/add.ctp:36
+#: View/ScheduleTypes/edit.ctp:40
+#: View/Schedules/add.ctp:239
+#: View/Schedules/edit.ctp:241
+#: View/WebUsers/add.ctp:48
+#: View/WebUsers/edit.ctp:52
+#: View/WebuserProfiles/add.ctp:39
+#: View/WebuserProfiles/edit.ctp:43
+msgid "Submit"
+msgstr ""
+
+#: View/Churches/edit.ctp:5
+msgid "Edit Church"
+msgstr ""
+
+#: View/Churches/edit.ctp:17
+#: View/Cities/edit.ctp:21
+#: View/Conversations/edit.ctp:21
+#: View/Countries/edit.ctp:21
+#: View/Messages/edit.ctp:21
+#: View/MobileUsers/edit.ctp:17
+#: View/MobileuserProfiles/edit.ctp:21
+#: View/ReadingTypes/edit.ctp:21
+#: View/Readings/edit.ctp:21
+#: View/ScheduleTypes/edit.ctp:21
+#: View/Schedules/edit.ctp:25
+#: View/WebUsers/edit.ctp:21
+#: View/WebuserProfiles/edit.ctp:21
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete"
+msgstr ""
+
+#: View/Churches/edit.ctp:17
+#: View/Churches/index.ctp:75;89
+#: View/Churches/view.ctp:19;205
+#: View/Cities/edit.ctp:21
+#: View/Cities/index.ctp:53
+#: View/Cities/view.ctp:19
+#: View/Conversations/edit.ctp:21
+#: View/Conversations/index.ctp:106
+#: View/Conversations/view.ctp:19
+#: View/Countries/edit.ctp:21
+#: View/Countries/index.ctp:51
+#: View/Countries/view.ctp:19
+#: View/Messages/edit.ctp:21
+#: View/Messages/index.ctp:61
+#: View/Messages/view.ctp:19
+#: View/MobileUsers/edit.ctp:17
+#: View/MobileUsers/index.ctp:70
+#: View/MobileUsers/view.ctp:19
+#: View/MobileuserProfiles/edit.ctp:21
+#: View/MobileuserProfiles/index.ctp:51
+#: View/MobileuserProfiles/view.ctp:19;103
+#: View/ReadingTypes/edit.ctp:21
+#: View/ReadingTypes/index.ctp:51
+#: View/ReadingTypes/view.ctp:19;101
+#: View/Readings/edit.ctp:21
+#: View/Readings/index.ctp:58
+#: View/Readings/view.ctp:19
+#: View/ScheduleTypes/edit.ctp:21
+#: View/ScheduleTypes/index.ctp:47
+#: View/ScheduleTypes/view.ctp:19;91
+#: View/Schedules/edit.ctp:25
+#: View/Schedules/index.ctp:67
+#: View/Schedules/view.ctp:19
+#: View/WebUsers/edit.ctp:21
+#: View/WebUsers/index.ctp:57
+#: View/WebUsers/view.ctp:19
+#: View/WebuserProfiles/edit.ctp:21
+#: View/WebuserProfiles/index.ctp:51
+#: View/WebuserProfiles/view.ctp:19;101
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Churches/index.ctp:14
+msgid "Search"
+msgstr ""
+
+#: View/Churches/index.ctp:17
+msgid "Clear"
+msgstr ""
+
+#: View/Churches/index.ctp:22
+#: View/Churches/map.ctp:6
+msgid "Churches"
+msgstr ""
+
+#: View/Churches/index.ctp:36
+msgid "<span class=\"glyphicon glyphicon-map-marker\"></span>&nbsp;&nbsp;View Map"
+msgstr ""
+
+#: View/Churches/index.ctp:38
+#: View/Churches/map.ctp:22
+#: View/Countries/add.ctp:23
+#: View/Countries/edit.ctp:24
+#: View/Countries/index.ctp:23
+#: View/MobileUsers/add.ctp:27
+#: View/MobileUsers/index.ctp:21
+#: View/Schedules/add.ctp:27
+#: View/Schedules/index.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Church"
+msgstr ""
+
+#: View/Churches/index.ctp:114
+#: View/Cities/index.ctp:61
+#: View/Conversations/index.ctp:113
+#: View/Countries/index.ctp:59
+#: View/Messages/index.ctp:69
+#: View/MobileUsers/index.ctp:77
+#: View/MobileuserProfiles/index.ctp:59
+#: View/ReadingTypes/index.ctp:59
+#: View/Readings/index.ctp:66
+#: View/ScheduleTypes/index.ctp:55
+#: View/Schedules/index.ctp:75
+#: View/WebUsers/index.ctp:65
+#: View/WebuserProfiles/index.ctp:59
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Churches/map.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;View List"
+msgstr ""
+
+#: View/Churches/view.ctp:5
+#: View/Schedules/view.ctp:99
+msgid "Church"
+msgstr ""
+
+#: View/Churches/view.ctp:17
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Church"
+msgstr ""
+
+#: View/Churches/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Church"
+msgstr ""
+
+#: View/Churches/view.ctp:21
+#: View/Countries/view.ctp:22
+#: View/Schedules/view.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Churches"
+msgstr ""
+
+#: View/Churches/view.ctp:23
+#: View/Countries/view.ctp:23
+#: View/Schedules/view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Church"
+msgstr ""
+
+#: View/Churches/view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-calendar\"></span>&nbsp&nbsp;New Schedule"
+msgstr ""
+
+#: View/Churches/view.ctp:36
+#: View/Cities/view.ctp:36
+#: View/Countries/view.ctp:36
+#: View/MobileuserProfiles/view.ctp:77
+#: View/ScheduleTypes/view.ctp:41
+#: View/WebuserProfiles/view.ctp:41
+msgid "Nombre"
+msgstr ""
+
+#: View/Churches/view.ctp:45
+msgid "Pertenece a la comunidad"
+msgstr ""
+
+#: View/Churches/view.ctp:55
+msgid "Direccion"
+msgstr ""
+
+#: View/Churches/view.ctp:63
+msgid "Telefonos"
+msgstr ""
+
+#: View/Churches/view.ctp:66
+msgid "Telefonos no disponible"
+msgstr ""
+
+#: View/Churches/view.ctp:71
+msgid "Latitud"
+msgstr ""
+
+#: View/Churches/view.ctp:79
+msgid "Longitud"
+msgstr ""
+
+#: View/Churches/view.ctp:87
+#: View/MobileuserProfiles/view.ctp:78
+#: View/WebUsers/view.ctp:34
+#: View/WebuserProfiles/view.ctp:77
+msgid "Email"
+msgstr ""
+
+#: View/Churches/view.ctp:90
+msgid "Correo electrónico no disponible."
+msgstr ""
+
+#: View/Churches/view.ctp:95
+msgid "Sitio Web"
+msgstr ""
+
+#: View/Churches/view.ctp:98
+msgid "Sitio web no disponible."
+msgstr ""
+
+#: View/Churches/view.ctp:104
+#: View/Messages/view.ctp:57
+#: View/MobileUsers/view.ctp:5
+msgid "Mobile User"
+msgstr ""
+
+#: View/Churches/view.ctp:113
+#: View/Cities/view.ctp:43
+#: View/Countries/view.ctp:5
+msgid "Country"
+msgstr ""
+
+#: View/Churches/view.ctp:122
+msgid "Observaciones"
+msgstr ""
+
+#: View/Churches/view.ctp:131
+#: View/Conversations/view.ctp:95
+#: View/WebUsers/view.ctp:76
+#: View/WebuserProfiles/view.ctp:83
+msgid "Modified"
+msgstr ""
+
+#: View/Churches/view.ctp:144
+#: View/ScheduleTypes/view.ctp:57
+msgid "Related Schedules"
+msgstr ""
+
+#: View/Churches/view.ctp:150
+#: View/ScheduleTypes/view.ctp:70
+msgid "Schedule Type Id"
+msgstr ""
+
+#: View/Churches/view.ctp:153
+#: View/ScheduleTypes/view.ctp:63
+#: View/Schedules/view.ctp:43
+msgid "Lunes"
+msgstr ""
+
+#: View/Churches/view.ctp:156
+#: View/ScheduleTypes/view.ctp:64
+#: View/Schedules/view.ctp:50
+msgid "Martes"
+msgstr ""
+
+#: View/Churches/view.ctp:159
+#: View/ScheduleTypes/view.ctp:65
+#: View/Schedules/view.ctp:57
+msgid "Miercoles"
+msgstr ""
+
+#: View/Churches/view.ctp:162
+#: View/ScheduleTypes/view.ctp:66
+#: View/Schedules/view.ctp:64
+msgid "Jueves"
+msgstr ""
+
+#: View/Churches/view.ctp:165
+#: View/ScheduleTypes/view.ctp:67
+#: View/Schedules/view.ctp:71
+msgid "Viernes"
+msgstr ""
+
+#: View/Churches/view.ctp:168
+#: View/ScheduleTypes/view.ctp:68
+#: View/Schedules/view.ctp:78
+msgid "Sabado"
+msgstr ""
+
+#: View/Churches/view.ctp:171
+#: View/ScheduleTypes/view.ctp:69
+#: View/Schedules/view.ctp:85
+msgid "Domingo"
+msgstr ""
+
+#: View/Churches/view.ctp:204
+#: View/MobileuserProfiles/view.ctp:102
+#: View/ReadingTypes/view.ctp:100
+#: View/ScheduleTypes/view.ctp:90
+#: View/WebuserProfiles/view.ctp:100
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>"
+msgstr ""
+
+#: View/Churches/view.ctp:205
+#: View/MobileuserProfiles/view.ctp:103
+#: View/ReadingTypes/view.ctp:101
+#: View/ScheduleTypes/view.ctp:91
+#: View/WebuserProfiles/view.ctp:101
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>"
+msgstr ""
+
+#: View/Cities/add.ctp:6
+msgid "Add City"
+msgstr ""
+
+#: View/Cities/add.ctp:21
+#: View/Cities/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Cities"
+msgstr ""
+
+#: View/Cities/add.ctp:22
+#: View/Cities/edit.ctp:23
+#: View/Cities/index.ctp:22
+#: View/Countries/add.ctp:21
+#: View/Countries/edit.ctp:22
+#: View/MobileUsers/add.ctp:24
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Countries"
+msgstr ""
+
+#: View/Cities/add.ctp:23
+#: View/Cities/edit.ctp:24
+#: View/Cities/index.ctp:23
+#: View/Countries/index.ctp:21
+#: View/MobileUsers/add.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Country"
+msgstr ""
+
+#: View/Cities/add.ctp:24
+#: View/Cities/edit.ctp:25
+#: View/Cities/index.ctp:24
+#: View/Conversations/add.ctp:22
+#: View/Conversations/edit.ctp:23
+#: View/Conversations/index.ctp:39
+#: View/Countries/add.ctp:24
+#: View/Countries/edit.ctp:25
+#: View/Countries/index.ctp:24
+#: View/Messages/add.ctp:24
+#: View/Messages/edit.ctp:25
+#: View/Messages/index.ctp:24
+#: View/MobileUsers/add.ctp:21
+#: View/MobileUsers/edit.ctp:19
+#: View/MobileuserProfiles/add.ctp:22
+#: View/MobileuserProfiles/edit.ctp:23
+#: View/MobileuserProfiles/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Mobile Users"
+msgstr ""
+
+#: View/Cities/add.ctp:25
+#: View/Cities/edit.ctp:26
+#: View/Cities/index.ctp:25
+#: View/Countries/add.ctp:25
+#: View/Countries/edit.ctp:26
+#: View/Countries/index.ctp:25
+#: View/Messages/add.ctp:25
+#: View/Messages/edit.ctp:26
+#: View/Messages/index.ctp:25
+#: View/MobileuserProfiles/add.ctp:23
+#: View/MobileuserProfiles/edit.ctp:24
+#: View/MobileuserProfiles/index.ctp:23
+#: View/MobileuserProfiles/view.ctp:112
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Mobile User"
+msgstr ""
+
+#: View/Cities/edit.ctp:6
+msgid "Edit City"
+msgstr ""
+
+#: View/Cities/index.ctp:6
+msgid "Cities"
+msgstr ""
+
+#: View/Cities/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New City"
+msgstr ""
+
+#: View/Cities/view.ctp:5
+msgid "City"
+msgstr ""
+
+#: View/Cities/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit City"
+msgstr ""
+
+#: View/Cities/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete City"
+msgstr ""
+
+#: View/Cities/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Cities"
+msgstr ""
+
+#: View/Cities/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New City"
+msgstr ""
+
+#: View/Cities/view.ctp:22
+#: View/Countries/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Countries"
+msgstr ""
+
+#: View/Cities/view.ctp:23
+#: View/Countries/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Country"
+msgstr ""
+
+#: View/Cities/view.ctp:24
+#: View/Countries/view.ctp:24
+#: View/Messages/view.ctp:24
+#: View/MobileUsers/view.ctp:21
+#: View/MobileuserProfiles/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Mobile Users"
+msgstr ""
+
+#: View/Cities/view.ctp:25
+#: View/Countries/view.ctp:25
+#: View/Messages/view.ctp:25
+#: View/MobileuserProfiles/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Mobile User"
+msgstr ""
+
+#: View/Conversations/add.ctp:6
+msgid "Add Conversation"
+msgstr ""
+
+#: View/Conversations/add.ctp:21
+#: View/Conversations/edit.ctp:22
+#: View/Messages/add.ctp:22
+#: View/Messages/edit.ctp:23
+#: View/Messages/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Conversations"
+msgstr ""
+
+#: View/Conversations/add.ctp:23
+#: View/Conversations/edit.ctp:24
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Sender"
+msgstr ""
+
+#: View/Conversations/add.ctp:24
+#: View/Conversations/edit.ctp:25
+#: View/Messages/add.ctp:21
+#: View/Messages/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Messages"
+msgstr ""
+
+#: View/Conversations/add.ctp:25
+#: View/Conversations/edit.ctp:26
+#: View/Messages/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Message"
+msgstr ""
+
+#: View/Conversations/edit.ctp:6
+msgid "Edit Conversation"
+msgstr ""
+
+#: View/Conversations/index.ctp:17
+msgid "Buscar"
+msgstr ""
+
+#: View/Conversations/index.ctp:20
+msgid "Limpiar"
+msgstr ""
+
+#: View/Conversations/index.ctp:25
+msgid "Conversations"
+msgstr ""
+
+#: View/Conversations/view.ctp:5
+#: View/Messages/view.ctp:50
+msgid "Conversation"
+msgstr ""
+
+#: View/Conversations/view.ctp:17
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Conversation"
+msgstr ""
+
+#: View/Conversations/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Conversation"
+msgstr ""
+
+#: View/Conversations/view.ctp:21
+#: View/Messages/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Conversations"
+msgstr ""
+
+#: View/Conversations/view.ctp:36
+msgid "Sender"
+msgstr ""
+
+#: View/Conversations/view.ctp:44
+msgid "Receiver"
+msgstr ""
+
+#: View/Conversations/view.ctp:52
+msgid "Subject"
+msgstr ""
+
+#: View/Conversations/view.ctp:61
+msgid "Last Reply"
+msgstr ""
+
+#: View/Conversations/view.ctp:74
+#: View/Messages/view.ctp:64
+#: View/MobileUsers/view.ctp:66
+msgid "Status"
+msgstr ""
+
+#: View/Conversations/view.ctp:87
+#: View/Messages/view.ctp:71
+#: View/MobileUsers/view.ctp:106
+#: View/MobileuserProfiles/view.ctp:55;84
+#: View/ReadingTypes/view.ctp:55;83
+#: View/Readings/view.ctp:98
+#: View/WebUsers/view.ctp:69
+#: View/WebuserProfiles/view.ctp:55;82
+msgid "Created"
+msgstr ""
+
+#: View/Countries/add.ctp:6
+msgid "Add Country"
+msgstr ""
+
+#: View/Countries/edit.ctp:6
+msgid "Edit Country"
+msgstr ""
+
+#: View/Countries/index.ctp:6
+msgid "Countries"
+msgstr ""
+
+#: View/Countries/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Country"
+msgstr ""
+
+#: View/Countries/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Country"
+msgstr ""
+
+#: View/Countries/view.ctp:43
+msgid "Short Name"
+msgstr ""
+
+#: View/Elements/navigation.ctp:17
+msgid "<span class=\"glyphicon glyphicon-screenshot\"></span>&nbsp;Churches"
+msgstr ""
+
+#: View/Elements/navigation.ctp:20
+msgid "<span class=\"glyphicon glyphicon-book\"></span>&nbsp;Readings"
+msgstr ""
+
+#: View/Elements/navigation.ctp:23
+msgid "<span class=\"glyphicon glyphicon-comment\"></span>&nbsp;Conversations"
+msgstr ""
+
+#: View/Elements/navigation.ctp:26
+msgid "<span class=\"glyphicon glyphicon-phone\"></span>&nbsp;Mobile Users"
+msgstr ""
+
+#: View/Elements/navigation.ctp:29
+msgid "<span class=\"glyphicon glyphicon-calendar\"></span>&nbsp;Schedules"
+msgstr ""
+
+#: View/Elements/navigation.ctp:40
+msgid "<span class=\"glyphicon glyphicon-user\"><span class=\"glyphicon glyphicon-modal-window\"></span></span>&nbsp;Web Users"
+msgstr ""
+
+#: View/Elements/navigation.ctp:43
+msgid "<span class=\"glyphicon glyphicon-user\"><span class=\"glyphicon glyphicon-calendar\"></span></span>&nbsp;Schedules"
+msgstr ""
+
+#: View/Elements/navigation.ctp:46
+msgid "<span class=\"glyphicon glyphicon-user\"><span class=\"glyphicon glyphicon-book\"></span></span>&nbsp;Reading Types"
+msgstr ""
+
+#: View/Elements/navigation.ctp:49
+msgid "<span class=\"glyphicon glyphicon-user\"><span class=\"glyphicon glyphicon-map-marker\"></span></span>&nbsp;Cities"
+msgstr ""
+
+#: View/Elements/navigation.ctp:55
+msgid "<span class=\"glyphicon glyphicon-off\"></span>&nbsp&nbsp;Logout"
+msgstr ""
+
+#: View/Messages/add.ctp:6
+msgid "Add Message"
+msgstr ""
+
+#: View/Messages/add.ctp:23
+#: View/Messages/edit.ctp:24
+#: View/Messages/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Conversation"
+msgstr ""
+
+#: View/Messages/edit.ctp:6
+msgid "Edit Message"
+msgstr ""
+
+#: View/Messages/index.ctp:6
+msgid "Messages"
+msgstr ""
+
+#: View/Messages/view.ctp:5
+msgid "Message"
+msgstr ""
+
+#: View/Messages/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Message"
+msgstr ""
+
+#: View/Messages/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Message"
+msgstr ""
+
+#: View/Messages/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Messages"
+msgstr ""
+
+#: View/Messages/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Message"
+msgstr ""
+
+#: View/Messages/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Conversation"
+msgstr ""
+
+#: View/Messages/view.ctp:36
+#: View/MobileuserProfiles/view.ctp:34;76
+#: View/ReadingTypes/view.ctp:34;76
+#: View/ScheduleTypes/view.ctp:34;62
+#: View/Schedules/view.ctp:36
+#: View/WebuserProfiles/view.ctp:34;76
+msgid "Id"
+msgstr ""
+
+#: View/Messages/view.ctp:43
+msgid "Replay"
+msgstr ""
+
+#: View/MobileUsers/add.ctp:6
+msgid "Add Mobile User"
+msgstr ""
+
+#: View/MobileUsers/add.ctp:22
+#: View/MobileuserProfiles/add.ctp:21
+#: View/MobileuserProfiles/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Mobileuser Profiles"
+msgstr ""
+
+#: View/MobileUsers/add.ctp:23
+#: View/MobileuserProfiles/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Mobileuser Profile"
+msgstr ""
+
+#: View/MobileUsers/edit.ctp:5
+msgid "Edit Mobile User"
+msgstr ""
+
+#: View/MobileUsers/index.ctp:5
+msgid "Mobile Users"
+msgstr ""
+
+#: View/MobileUsers/view.ctp:17
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Mobile User"
+msgstr ""
+
+#: View/MobileUsers/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Mobile User"
+msgstr ""
+
+#: View/MobileUsers/view.ctp:77
+msgid "Comunidad"
+msgstr ""
+
+#: View/MobileUsers/view.ctp:87
+msgid "Consagracion"
+msgstr ""
+
+#: View/MobileUsers/view.ctp:97
+#: View/MobileuserProfiles/view.ctp:82
+msgid "Locale"
+msgstr ""
+
+#: View/MobileuserProfiles/add.ctp:6
+msgid "Add Mobileuser Profile"
+msgstr ""
+
+#: View/MobileuserProfiles/edit.ctp:6
+msgid "Edit Mobileuser Profile"
+msgstr ""
+
+#: View/MobileuserProfiles/index.ctp:6
+msgid "Mobileuser Profiles"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:5
+msgid "Mobileuser Profile"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Mobileuser Profile"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Mobileuser Profile"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Mobileuser Profiles"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Mobileuser Profile"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:41
+msgid "Titulo"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:48
+#: View/WebuserProfiles/view.ctp:48
+msgid "Descripcion"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:71
+msgid "Related Mobile Users"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:79
+#: View/WebUsers/view.ctp:41
+#: View/WebuserProfiles/view.ctp:78
+msgid "Password"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:80
+msgid "Mobileuser Profile Id"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:81
+msgid "Foto"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:83
+msgid "City Id"
+msgstr ""
+
+#: View/MobileuserProfiles/view.ctp:101
+#: View/ReadingTypes/view.ctp:99
+#: View/ScheduleTypes/view.ctp:89
+#: View/WebuserProfiles/view.ctp:99
+msgid "<span class=\"glyphicon glyphicon-search\"></span>"
+msgstr ""
+
+#: View/ReadingTypes/add.ctp:6
+msgid "Add Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/add.ctp:21
+#: View/ReadingTypes/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Reading Types"
+msgstr ""
+
+#: View/ReadingTypes/add.ctp:22
+#: View/ReadingTypes/edit.ctp:23
+#: View/ReadingTypes/index.ctp:22
+#: View/Readings/add.ctp:19
+#: View/Readings/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Readings"
+msgstr ""
+
+#: View/ReadingTypes/add.ctp:23
+#: View/ReadingTypes/edit.ctp:24
+#: View/ReadingTypes/index.ctp:23
+#: View/ReadingTypes/view.ctp:110
+#: View/Readings/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Reading"
+msgstr ""
+
+#: View/ReadingTypes/edit.ctp:6
+msgid "Edit Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/index.ctp:6
+msgid "Reading Types"
+msgstr ""
+
+#: View/ReadingTypes/index.ctp:21
+#: View/Readings/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:5
+#: View/Readings/view.ctp:90
+msgid "Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Reading Types"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Reading Type"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:22
+#: View/Readings/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Readings"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:23
+#: View/Readings/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Reading"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:41;77
+#: View/Readings/view.ctp:38
+msgid "Titulo Es"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:48;78
+#: View/Readings/view.ctp:46
+msgid "Titulo En"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:71
+msgid "Related Readings"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:79
+#: View/Readings/view.ctp:58
+msgid "Descripcion Es"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:80
+#: View/Readings/view.ctp:70
+msgid "Descripcion En"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:81
+#: View/Readings/view.ctp:82
+msgid "Fecha"
+msgstr ""
+
+#: View/ReadingTypes/view.ctp:82
+msgid "Reading Type Id"
+msgstr ""
+
+#: View/Readings/add.ctp:7
+msgid "Add Reading"
+msgstr ""
+
+#: View/Readings/edit.ctp:6
+msgid "Edit Reading"
+msgstr ""
+
+#: View/Readings/index.ctp:6
+msgid "Readings"
+msgstr ""
+
+#: View/Readings/view.ctp:5
+msgid "Reading"
+msgstr ""
+
+#: View/Readings/view.ctp:17
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Reading"
+msgstr ""
+
+#: View/Readings/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Reading"
+msgstr ""
+
+#: View/Readings/view.ctp:52;64;76
+msgid "No avialable"
+msgstr ""
+
+#: View/ScheduleTypes/add.ctp:6
+msgid "Add Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/add.ctp:21
+#: View/ScheduleTypes/edit.ctp:22
+#: View/Schedules/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Schedule Types"
+msgstr ""
+
+#: View/ScheduleTypes/add.ctp:22
+#: View/ScheduleTypes/edit.ctp:23
+#: View/ScheduleTypes/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Schedules"
+msgstr ""
+
+#: View/ScheduleTypes/add.ctp:23
+#: View/ScheduleTypes/edit.ctp:24
+#: View/ScheduleTypes/index.ctp:23
+#: View/ScheduleTypes/view.ctp:100
+#: View/Schedules/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Schedule"
+msgstr ""
+
+#: View/ScheduleTypes/edit.ctp:6
+msgid "Edit Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/index.ctp:6
+msgid "Schedule Types"
+msgstr ""
+
+#: View/ScheduleTypes/index.ctp:21
+#: View/Schedules/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:5
+#: View/Schedules/view.ctp:92
+msgid "Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:20
+#: View/Schedules/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Schedule Types"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:21
+#: View/Schedules/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Schedule Type"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:22
+#: View/Schedules/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Schedules"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:23
+#: View/Schedules/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Schedule"
+msgstr ""
+
+#: View/ScheduleTypes/view.ctp:71
+msgid "Church Id"
+msgstr ""
+
+#: View/Schedules/add.ctp:8
+#: View/Schedules/edit.ctp:8
+msgid "Use from Monday to Friday"
+msgstr ""
+
+#: View/Schedules/add.ctp:11
+msgid "Add Schedule"
+msgstr ""
+
+#: View/Schedules/add.ctp:23
+#: View/Schedules/edit.ctp:23
+msgid "<span class=\"glyphicon glyphicon-arrow-left\"></span>&nbsp&nbsp;Back"
+msgstr ""
+
+#: View/Schedules/edit.ctp:11
+msgid "Edit Schedule"
+msgstr ""
+
+#: View/Schedules/index.ctp:6
+msgid "Schedules"
+msgstr ""
+
+#: View/Schedules/view.ctp:5
+msgid "Schedule"
+msgstr ""
+
+#: View/Schedules/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Schedule"
+msgstr ""
+
+#: View/Schedules/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Schedule"
+msgstr ""
+
+#: View/WebUsers/add.ctp:6
+msgid "Add Web User"
+msgstr ""
+
+#: View/WebUsers/add.ctp:21
+#: View/WebUsers/edit.ctp:22
+#: View/WebuserProfiles/add.ctp:22
+#: View/WebuserProfiles/edit.ctp:23
+#: View/WebuserProfiles/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Web Users"
+msgstr ""
+
+#: View/WebUsers/add.ctp:22
+#: View/WebUsers/edit.ctp:23
+#: View/WebUsers/index.ctp:22
+#: View/WebuserProfiles/add.ctp:21
+#: View/WebuserProfiles/edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Webuser Profiles"
+msgstr ""
+
+#: View/WebUsers/add.ctp:23
+#: View/WebUsers/edit.ctp:24
+#: View/WebUsers/index.ctp:23
+#: View/WebuserProfiles/index.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Webuser Profile"
+msgstr ""
+
+#: View/WebUsers/edit.ctp:6
+msgid "Edit Web User"
+msgstr ""
+
+#: View/WebUsers/index.ctp:6
+msgid "Web Users"
+msgstr ""
+
+#: View/WebUsers/index.ctp:21
+#: View/WebuserProfiles/add.ctp:23
+#: View/WebuserProfiles/edit.ctp:24
+#: View/WebuserProfiles/index.ctp:23
+#: View/WebuserProfiles/view.ctp:110
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Web User"
+msgstr ""
+
+#: View/WebUsers/view.ctp:5
+msgid "Web User"
+msgstr ""
+
+#: View/WebUsers/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Web User"
+msgstr ""
+
+#: View/WebUsers/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Web User"
+msgstr ""
+
+#: View/WebUsers/view.ctp:20
+#: View/WebuserProfiles/view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Web Users"
+msgstr ""
+
+#: View/WebUsers/view.ctp:21
+#: View/WebuserProfiles/view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Web User"
+msgstr ""
+
+#: View/WebUsers/view.ctp:22
+#: View/WebuserProfiles/view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Webuser Profiles"
+msgstr ""
+
+#: View/WebUsers/view.ctp:23
+#: View/WebuserProfiles/view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Webuser Profile"
+msgstr ""
+
+#: View/WebUsers/view.ctp:48
+#: View/WebuserProfiles/view.ctp:79
+msgid "Copiapassword"
+msgstr ""
+
+#: View/WebUsers/view.ctp:55
+#: View/WebuserProfiles/view.ctp:5
+msgid "Webuser Profile"
+msgstr ""
+
+#: View/WebUsers/view.ctp:62
+#: View/WebuserProfiles/view.ctp:81
+msgid "Activo"
+msgstr ""
+
+#: View/WebuserProfiles/add.ctp:6
+msgid "Add Webuser Profile"
+msgstr ""
+
+#: View/WebuserProfiles/edit.ctp:6
+msgid "Edit Webuser Profile"
+msgstr ""
+
+#: View/WebuserProfiles/index.ctp:6
+msgid "Webuser Profiles"
+msgstr ""
+
+#: View/WebuserProfiles/view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Webuser Profile"
+msgstr ""
+
+#: View/WebuserProfiles/view.ctp:19
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Webuser Profile"
+msgstr ""
+
+#: View/WebuserProfiles/view.ctp:71
+msgid "Related Web Users"
+msgstr ""
+
+#: View/WebuserProfiles/view.ctp:80
+msgid "Webuser Profile Id"
+msgstr ""
+
+#: Model/Church.php:validation for field nombre;validation for field email;validation for field direccion
+#: Model/City.php:validation for field nombre
+#: Model/Country.php:validation for field nombre;validation for field short_name
+#: Model/Message.php:validation for field reply
+#: Model/MobileUser.php:validation for field nombre;validation for field apellido;validation for field gender;validation for field password;validation for field locale;validation for field status
+#: Model/MobileuserProfile.php:validation for field titulo_es
+#: Model/Reading.php:validation for field titulo_es
+#: Model/ScheduleType.php:validation for field nombre
+#: Model/WebUser.php:validation for field activo
+#: Model/WebuserProfile.php:validation for field nombre
+msgid "notBlank"
+msgstr ""
+
+#: Model/Church.php:validation for field latitud;validation for field longitud
+msgid "Please check a point in the map"
+msgstr ""
+
+#: Model/Church.php:validation for field country_id
+#: Model/City.php:validation for field country_id
+#: Model/Conversation.php:validation for field sender_id;validation for field receiver_id
+#: Model/Message.php:validation for field conversation_id;validation for field mobile_user_id
+#: Model/MobileUser.php:validation for field mobileuser_profile_id;validation for field city_id
+#: Model/Reading.php:validation for field reading_type_id
+#: Model/Schedule.php:validation for field schedule_type_id;validation for field church_id
+#: Model/WebUser.php:validation for field webuser_profile_id
+msgid "numeric"
+msgstr ""
+
+#: Model/MobileUser.php:validation for field email
+#: Model/WebUser.php:validation for field email
+msgid "email"
+msgstr ""
+
+#: Model/Reading.php:validation for field fecha
+msgid "date"
+msgstr ""
+
+#: Model/WebUser.php:validation for field password
+msgid "Minimo 4 caracteres"
+msgstr ""
+
+#: Model/WebUser.php:validation for field password
+msgid "Las contraseñas no coinciden!"
+msgstr ""
+
+#: Model/WebUser.php:validation for field copiapassword
+msgid "Se requiere verificación"
+msgstr ""
+

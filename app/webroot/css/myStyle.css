@@ -1,0 +1,242 @@
+
+ .label,.glyphicon { margin-right:5px; }
+
+
+
+#map_canvas
+{
+    width: 100%;
+    height: 500px;
+    border: 1px solid #d0d0d0;
+    border-radius: 10px;
+}
+
+#map_preview
+{
+    width: 30%;
+    height: 50px;
+    border: 1px solid #d0d0d0;
+    border-radius: 10px;
+}
+
+
+body {
+    background-color: white;
+}
+
+#loginbox {
+    margin-top: 30px;
+}
+
+#loginbox > div:first-child {        
+    padding-bottom: 10px;    
+}
+
+.iconmelon {
+    display: block;
+    margin: auto;
+}
+
+#form > div {
+    margin-bottom: 25px;
+}
+
+#form > div:last-child {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.panel {    
+    background-color: transparent;
+}
+
+.panel-body {
+    padding-top: 30px;
+    background-color: rgba(2555,255,255,.3);
+}
+
+#particles {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;                        
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: -2;
+}
+
+.iconmelon,
+.im {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  display: block;
+  fill: #525151;
+}
+
+.iconmelon:after,
+.im:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+label.radio-inline, label.checkbox-inline {
+  background-color: #dcdfd4;
+  cursor: pointer;
+  font-weight: 400;
+  margin-bottom: 10px !important;
+  margin-right: 0%;
+  margin-left:0;
+  padding: 10px 40px 10px 40px;
+}
+label.radio-inline.checked, label.checkbox-inline.checked {
+  background-color: #266c8e;
+  color: #fff !important;
+  text-shadow: 1px 1px 2px #000 !important;
+}
+
+.block-update-card {
+  height: 100%;
+  border: 1px #FFFFFF solid;
+  width: 100%;
+  float: left;
+  margin-left: 10px;
+  margin-top: 0;
+  padding: 0;
+  box-shadow: 1px 1px 8px #d8d8d8;
+  background-color: #FFFFFF;
+  font-family: 'Lato', sans-serif;
+}
+.block-update-card .card-action-pellet {
+  padding: 5px;
+}
+.block-update-card .card-action-pellet div {
+  margin-right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  color: goldenrod;
+}
+.block-update-card .card-action-pellet div:hover {
+  color: gold;
+}
+
+.block-update-card .update-card-body {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.block-update-card .update-card-body h4 {
+  color: #737373;
+  font-weight: bold;
+  font-size: 20px;
+}
+.block-update-card .update-card-body p {
+  color: #737373;
+  font-size: 15px;
+}
+
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.thumbnail{
+    width: 380px;
+    height: 500px;
+}
+
+.business-card {
+  border: 1px solid #cccccc;
+  background: #f8f8f8;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.profile-img {
+  height: 120px;
+  background: white;
+}
+.job {
+  color: #666666;
+  font-size: 17px;
+}
+.mail {
+  font-size: 16px;
+  color: #266c8e
+ }
+/*
+.additional-info-wrap {
+  display: inline-block;
+  margin: 0 2% 0 0;
+  min-width: 190px;
+  position: relative;
+  vertical-align: top;
+  width: 30%;
+}
+.additional-info-wrap label.checkbox-inline, .additional-info-wrap label.radio-inline {
+  width: 100% !important;
+}
+.additional-info-wrap .additional-info {
+  background-color: #266c8e;
+  clear: both;
+  color: #fff !important;
+  margin-top: -10px;
+  padding: 0 10px 10px;
+  text-shadow: 1px 1px 2px #000 !important;
+  width: 100%;
+}
+
+
+.ui-sortable tr {
+    cursor:pointer;
+}    
+.ui-sortable tr:hover {
+    background:rgba(244,251,17,0.45);
+}label.radio-inline,
+label.checkbox-inline,
+label.radio,
+label.checkbox {
+    margin-right:2%;
+    cursor:pointer;
+    font-weight:400;
+    padding:10px 10px 10px 30px;
+    background-color:#dcdfd4;
+    margin-bottom:10px!important
+}
+label.radio-inline.checked,
+label.checkbox-inline.checked,
+label.radio.checked,
+label.checkbox.checked {
+    background-color:#266c8e;
+    color:#fff!important;
+    text-shadow:#000 1px 1px 2px!important
+}
+*/
+
+.glyphicon {  margin-bottom: 10px;margin-right: 10px;}
+
+.h4-formated {
+display: block;
+line-height: 1.428571429;
+color: #999;
+margin: 0px 0px 0px 0px;
+}
+
+.glyphicon-gender{
+    content: url('../img/glyphicons-758-gender-ori-hetero.png');
+    width: 20px;
+}
+
+
+.daily-message-text{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}

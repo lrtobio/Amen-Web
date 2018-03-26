@@ -1,0 +1,109 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.5416254,
+               "lng" : -72.9109804
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5429469802915,
+                  "lng" : -72.90961556970848
+               },
+               "southwest" : {
+                  "lat" : 11.5402490197085,
+                  "lng" : -72.9123135302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7731cd3b09b60a10a3339d24cbeb67d239175b43",
+         "name" : "Parroquia San Francisco de Asís",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111809481990746667057/photos\"\u003eH. Guerrero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAVGiR0pkeVTw-1l7XoKqjHI_dkDUml6Sr_v54SVwiCuYZW7XILmCPzBPq--KeNjBGBtd-s_NQ-0MtTauHlGVHf6sYiToQbXMJlR3skYspUotfevcycvkbiyk3bUKbkp27TmRpOmXDiG8z7KCA605EpUyYRB0uvezzLb-lEfh67REhCer0jg2ZsBpETngfJ5fTjpGhScGZaNvwpd_CsnaS1s1M--1pS-9A",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ4QWdprpii44RKP-en-KDM4Q",
+         "reference" : "CmRSAAAA8Gv9E_Xhl0syl8Paq0ijMLplmzyE5aPiBUzfEk_7ZbIFzm5KD1dukl-jZJJdnRfxvVQfa5z1mSvgpswM_w4F5G5UHtGg19GniC_d1rgbN2pkGsQDRUxEcjns7Czps6UiEhAvOJ2Y-6T5aD5NFm7biojDGhQL6hlm9bNeSfegtC3s826qrzHuIg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Calle 15 #1130, Riohacha"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.5456693,
+               "lng" : -72.9092776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5470671802915,
+                  "lng" : -72.9079411197085
+               },
+               "southwest" : {
+                  "lat" : 11.5443692197085,
+                  "lng" : -72.9106390802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "84fd9e5af3c0dadebff1b571a15fcf5170ea2fde",
+         "name" : "Parroquia San Judas Tadeo",
+         "place_id" : "ChIJU78cc69ii44RdDzFIFmZ1ys",
+         "reference" : "CmRRAAAAnfPew7HBBlSmL37EsZjabxBCeR-zIGsMDzXKtqojfTTQbbc2VukF95vID-mVRMmhShpvbtzC6LbfnHwVaExzG_CPnhwwSDPJQCRMsljlDZcruXCCEmqHQguNazkg7VyNEhAiN1KU7ONkL42dU_OFfVCkGhSNcpiWDTdEdMzuLBhD8kIZh0aSkg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Calle 13, Riohacha"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 11.533817,
+               "lng" : -72.923419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5351556802915,
+                  "lng" : -72.9221070697085
+               },
+               "southwest" : {
+                  "lat" : 11.5324577197085,
+                  "lng" : -72.92480503029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "98ba2cddc8df040a12ac4c1b12177d630e1980a6",
+         "name" : "Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI Riohacha",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111457464452192148810/photos\"\u003eIglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI Riohacha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGl1IeWAicP3p9YeFjPLaJvzl-7WpVCCNkOjjZ6Sn7zRxHMnXlMkXeyt8QjB659ooZutmfIjK98sWME8D3hlU8A4vVg6ytigd3WMHWtG_nOTbrv5TPASlRBaHqjxMuQHztuKGFfTDZRcXZDamJJiqzZq3KuXlq6nHebaTqd7H5TMEhDGnrqMpQNlwqvwOguC3Xk6GhRmb5GVf2mkK4Odpsms0ili28J0Cg",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJiTi7aZVii44R5JRdxv_n1Y8",
+         "rating" : 5,
+         "reference" : "CmRSAAAAzskEgCOSI9IKLWjRTAtDwXLr6pSfIQpUTvoz_jgUxKJQefRSwC5mMrlRGsMOKqhE02Ckw1wa7j_hjdGCNCdaucGmolQ7DY5VVrDatb-SK53xnTYnnoty1kyM8pLy8kSXEhDjemh8ULP4PAd8GdKcs4iJGhSMjmruReNHQ7-x37e2j31x8Fp_JA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "N°, Carrera 22 #1589, Riohacha"
+      }
+   ],
+   "status" : "OK"
+}
